@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vir Apparel</title>
+  </head>
+
+  <body>
+    <!-- Span for uppermost banner to glitch in the top right -->
+    <span></span>
+    <!-- Header for centred logo/name (which is the hyperlink for home) then on the left location/currency & language - then contact us hyperlinked text -->
+    <header>
+      <a href="../index.html"><img src="" alt="" /></a>
+    </header>
+    <!-- nav: fresh drops/mens/women/kids?/accessories -->
+    <nav>
+      <a href="">Fresh Drops</a>
+      <a href="">Mens</a>
+      <a href="">Women</a>
+      <a href="">Kids</a>
+      <!-- this should not be clickable and should bring up a a drop-down that displays 2 options 'Boys' & 'Girls' -->
+      <a href="">Accessories</a>
+    </nav>
+  </body>
+</html>
